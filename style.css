@@ -1,0 +1,27 @@
+
+body{
+    margin: 10vw 30vw;
+}
+
+
+form{
+
+    background-color: #536162;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 15px;
+}
+.form-group{
+    
+    padding: 15px;
+    margin: 0px;
+}
+.form-control{
+    background-color: #f3f4ed;
+}
+.btn-primary{
+    margin-left: 15px;
+    background-color: #c06014;
+    border: none;
+}
